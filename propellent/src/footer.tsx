@@ -26,11 +26,11 @@ const Footer = () => {
         <p>
           | Development by
           <a
-            href="https://www.victorwilliams.me"
+            href="https://folll.io/mikeadeleke"
             target="_blank"
             className="underline text-[#878787] hover:text-black hover:no-underline transition-all cursor-pointer duration-300 mx-[5px]"
           >
-            Victor Williams
+            Michael Adeleke
           </a>
           - Copyright 2024
         </p>
